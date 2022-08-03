@@ -22,7 +22,6 @@ Polygon ID Protocol allows to create private identity infrastructures:
 
 ---
 # <div align="center"><b>[Find tutorials on PolygonID here.](https://0xpolygonid.github.io/tutorials/)</b></div>
-</ br></ br>
 # <div align="center"><b>[Find out more about iden3 librarires and protocols here.](https://docs.iden3.io)</b></div>
 
 ---
