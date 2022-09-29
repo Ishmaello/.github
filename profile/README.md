@@ -26,8 +26,6 @@ Polygon ID allows:
 <img src= "https://github.com/0xPolygonID/tutorials/blob/main/mkdocs/docs/imgs/triangle-of-trust-polygonID.png" align="center" width="500"/>
 </div>
 
-https://github.com/0xPolygonID/tutorials/blob/main/mkdocs/docs/imgs/triangle-of-trust-polygonID.png
-
 ---
 # <div align="center"><b>[Polygon ID Docs](https://0xpolygonid.github.io/tutorials/)</b></div>
 # <div align="center"><b>[Polygon ID Smart Contracts](https://github.com/0xPolygonID/contracts)</b></div>
