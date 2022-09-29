@@ -14,14 +14,21 @@
 
 # Polygon ID
 
-Polygon ID Protocol allows to create private identity infrastructures:
+Polygon ID is a decentralized, private, self-sovereign identity framework with native Web3 integration, built on a permissionless blockchain.  
 
-- Issuers can attest any type of identity related information by issuing claims
-- Users hold claims in their wallet and portably use them to privately authenticate across platforms
-- Web2 and Web3 platforms can set up customized requirements (query) to provide users with access rights
+Polygon ID allows:
+
+- Issuers to attest any type of identity related information by issuing claims
+- Users to hold claims in their wallet and portably use them to privately authenticate across platforms
+- Verifier to can set up customized requirements to provide users with private access rights both off-chain and on-chain
+
+<div align="center">
+<img src= "https://github.com/0xPolygonID/tutorials/blob/main/mkdocs/docs/imgs/triangle-of-trust-polygonID.png" align="center" width="500"/>
+</div>
+
+https://github.com/0xPolygonID/tutorials/blob/main/mkdocs/docs/imgs/triangle-of-trust-polygonID.png
 
 ---
-# <div align="center"><b>[Find tutorials on PolygonID here.](https://0xpolygonid.github.io/tutorials/)</b></div>
-# <div align="center"><b>[Find out more about iden3 librarires and protocols here.](https://docs.iden3.io)</b></div>
-
+# <div align="center"><b>[Polygon ID Docs](https://0xpolygonid.github.io/tutorials/)</b></div>
+# <div align="center"><b>[Polygon ID Smart Contracts](https://github.com/0xPolygonID/contracts)</b></div>
 ---
